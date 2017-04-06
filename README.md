@@ -1,3 +1,5 @@
 # TIE - Text Image Editor
-Projekt zrobiony na zaliczenie Podstaw Programowania na pierwszym semestrze politechniki.
-Zadanie polegało na stworzeniu prostego edytora obrazków w konsoli oraz opracowanie własnego sposobu zapisu plików graficznych.
+Project for Programming Basics class, first semester on Gdańsk University of Technology<br />
+The task - create a simple console-based image editor and find a way to store and load images in custom file type
+# Download
+https://github.com/szycikm/TIE/releases/latest
